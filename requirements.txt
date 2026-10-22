@@ -1,0 +1,5 @@
+# Colab already has these. Versions used for the reported run: fill in from
+#   import torch, torchvision; print(torch.__version__, torchvision.__version__)
+torch
+torchvision
+matplotlib
